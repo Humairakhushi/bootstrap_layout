@@ -1,0 +1,20 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: pink;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.bg{
+	background-color: #ff4da6;
+	min-height: 50px;
+	border:1px solid black;
+}
+.hr{
+	background-color: red;
+	min-height: 50px;
+	border:1px solid black;
+}
+.purple{
+	background-color: #a64dff;
+	min-height: 50px;
+	border:1px solid black;
+}
